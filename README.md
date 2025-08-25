@@ -25,6 +25,7 @@ Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/DiAFDnM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 https://i.imgur.com/DiAFDnM.gif
+https://i.imgur.com/DiAFDnM.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
