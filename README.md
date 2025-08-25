@@ -17,16 +17,14 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
-
-
-<img src='https://i.imgur.com/DiAFDnM.gif' title='Jerrys Prework Assignment Video' alt='Video Walkthrough'/>
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/DiAFDnM.gif' title='Jerrys Prework Assignment' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -43,7 +41,7 @@ The main challeges I had was using the ternary operator inChallenge 6. I struggl
 
 ## License
 
-    Copyright [2025] [Jerry Rogers]
+    Copyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
